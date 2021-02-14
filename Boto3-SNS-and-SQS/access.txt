@@ -1,0 +1,12 @@
+access key: AKIAQOMAYMC2XTHKQTMG
+secret ID:  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
+
+mustafa.k.alogaidi@gmail.com
+Pi
+
+godric.phoenix18@gmail.com
+P@Pi
+MFA: The last one
+
+The original path of the pycharm:
+/Users/mustafaalogaidi/PycharmProjects/pythonProject
