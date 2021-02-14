@@ -1,5 +1,5 @@
-access key: AKIAQOMAYMC2XTHKQTMG
-secret ID:  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
+access key: 
+secret ID:  
 
 mustafa.k.alogaidi@gmail.com
 Pi
