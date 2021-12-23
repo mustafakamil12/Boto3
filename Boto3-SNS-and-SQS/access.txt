@@ -5,8 +5,20 @@ mustafa.k.alogaidi@gmail.com
 Pi
 
 godric.phoenix18@gmail.com
-P@Pi
+P@P@
 MFA: The last one
+
+terraformadmin
+AKIAQOMAYMC2RKBXH2AO
+GKcIf52WH6QeTNUd3IPkbLTJI+uf98LPVGo9MdOf
+
+export AWS_ACCESS_KEY_ID="AKIAQOMAYMC2VCKFWHXV"
+export AWS_SECRET_ACCESS_KEY="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"
+export AWS_DEFAULT_REGION="us-east-1"
 
 The original path of the pycharm:
 /Users/mustafaalogaidi/PycharmProjects/pythonProject
+
+
+
+
